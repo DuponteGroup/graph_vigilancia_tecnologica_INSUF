@@ -1,0 +1,931 @@
+PMID- 37334931
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230621
+LR  - 20230701
+IS  - 1525-6049 (Electronic)
+IS  - 0886-022X (Print)
+IS  - 0886-022X (Linking)
+VI  - 45
+IP  - 1
+DP  - 2023 Dec
+TI  - Effects of sacubitril-valsartan in patients undergoing maintenance dialysis.
+PG  - 2222841
+LID - 10.1080/0886022X.2023.2222841 [doi]
+LID - 2222841
+AB  - OBJECTIVES: Data on angiotensin receptor-neprilysin inhibitor (ARNI) 
+      sacubitril-valsartan (SV) in patients undergoing maintenance dialysis is scarce. 
+      Our study aimed to investigate the effect of SV on patients undergoing dialysis. 
+      METHODS: We retrospectively reviewed the data of end-stage kidney disease (ESRD) 
+      patients undergoing either peritoneal dialysis (PD) or hemodialysis (HD) in our 
+      center. A total of 51 patients receiving SV treatment were enrolled in the SV 
+      group. Another 51 age and sex-matched patients on dialysis without SV treatment 
+      were selected as the control group. All the patients were regularly followed up 
+      in the dialysis clinic. Their clinical, biochemical, and echocardiographic 
+      parameters were all recorded at baseline and during follow-up. The effect and 
+      safety of SV were further analyzed. RESULTS: A total of 102 ESRD patients on 
+      dialysis (51 patients in the SV group and 51 patients in the control group) were 
+      finally enrolled. The median follow-up time was 349 days (interquartile range 
+      [IQR]: 217-535 days). The level of B-type natriuretic peptide (BNP) (median [IQR] 
+      before and after SV treatment: 596.35 pg/ml [190.6-1714.85] vs. 188.7 pg/ml 
+      [83.34-600.35], p < 0.001) or N-terminal pro-B-type natriuretic peptide 
+      (NT-proBNP) (median [IQR]: 6316.00 pg/ml [4552.00-28598.00] vs. 5074.00 pg/ml 
+      [2229.00-9851.00], p = 0.022) were significantly decreased after treatment with 
+      SV. The variant rate of left ventricular ejection fraction (LVEF) was 
+      significantly higher in the SV group compared to the control group, especially in 
+      the PD subgroup. No significant difference was found in other echocardiographic 
+      parameters between SV and control group. Subgroup analysis of the PD group showed 
+      an increase in daily PD ultrafiltration (median [IQR]: 400 ml/d [200-500] vs. 
+      500 ml/d [200-850], p = 0.114) after SV treatment. Variant rate of overhydration 
+      (OH) measured by the body composition monitor (BCM) of the SV group were 
+      significantly different from the control group (median [IQR]: -13.13% 
+      [-42.85%-27.84%] vs. 0% [-17.95%-53.85%], p = 0.049). The rate of hyperkalemia 
+      was slightly higher but without significant difference before and after the 
+      introduction of SV (19.6% vs. 27.5%, p = 0.350). No event of hypotension and 
+      angioedema were observed. CONCLUSIONS: SV might have a cardio-protective role in 
+      ESRD patients undergoing dialysis, especially in PD patients. Serum potassium 
+      should be monitored during the treatment.
+FAU - Ding, Ying
+AU  - Ding Y
+AD  - Department of Nephrology, Peking University International Hospital, Beijing, PR. 
+      China.
+FAU - Wan, Li
+AU  - Wan L
+AD  - Department of Nephrology, Peking University International Hospital, Beijing, PR. 
+      China.
+FAU - Zhang, Zhou-Cang
+AU  - Zhang ZC
+AD  - Department of Nephrology, Peking University International Hospital, Beijing, PR. 
+      China.
+FAU - Yang, Qing-Hua
+AU  - Yang QH
+AD  - Department of Nephrology, Peking University International Hospital, Beijing, PR. 
+      China.
+FAU - Ding, Jia-Xiang
+AU  - Ding JX
+AD  - Department of Nephrology, Peking University International Hospital, Beijing, PR. 
+      China.
+FAU - Qu, Zhen
+AU  - Qu Z
+AD  - Department of Nephrology, Peking University International Hospital, Beijing, PR. 
+      China.
+FAU - Yu, Feng
+AU  - Yu F
+AD  - Department of Nephrology, Peking University International Hospital, Beijing, PR. 
+      China.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Ren Fail
+JT  - Renal failure
+JID - 8701128
+RN  - WB8FT61183 (sacubitril and valsartan sodium hydrate drug combination)
+RN  - 114471-18-0 (Natriuretic Peptide, Brain)
+RN  - 0 (Tetrazoles)
+RN  - 80M03YXJ7I (Valsartan)
+RN  - 0 (Drug Combinations)
+RN  - 0 (Angiotensin Receptor Antagonists)
+SB  - IM
+MH  - Humans
+MH  - Natriuretic Peptide, Brain
+MH  - *Heart Failure/drug therapy
+MH  - Stroke Volume
+MH  - Retrospective Studies
+MH  - Tetrazoles/adverse effects
+MH  - Ventricular Function, Left
+MH  - Renal Dialysis
+MH  - Valsartan/therapeutic use
+MH  - Drug Combinations
+MH  - *Kidney Failure, Chronic/complications/therapy/chemically induced
+MH  - Angiotensin Receptor Antagonists/pharmacology/therapeutic use
+PMC - PMC10281424
+OTO - NOTNLM
+OT  - Sacubitril-valsartan
+OT  - angiotensin receptor-neprilysin inhibitor
+OT  - dialysis
+OT  - end-stage renal disease
+EDAT- 2023/06/19 13:08
+MHDA- 2023/06/21 06:42
+PMCR- 2023/06/19
+CRDT- 2023/06/19 07:23
+PHST- 2023/06/21 06:42 [medline]
+PHST- 2023/06/19 13:08 [pubmed]
+PHST- 2023/06/19 07:23 [entrez]
+PHST- 2023/06/19 00:00 [pmc-release]
+AID - 2222841 [pii]
+AID - 10.1080/0886022X.2023.2222841 [doi]
+PST - ppublish
+SO  - Ren Fail. 2023 Dec;45(1):2222841. doi: 10.1080/0886022X.2023.2222841.
+
+PMID- 28489317
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180504
+LR  - 20211204
+IS  - 1755-5922 (Electronic)
+IS  - 1755-5914 (Linking)
+VI  - 35
+IP  - 4
+DP  - 2017 Aug
+TI  - Pharmacogenomics of angiotensin receptor/neprilysin inhibitor and its long-term 
+      side effects.
+LID - 10.1111/1755-5922.12272 [doi]
+AB  - The development of the promising agent sacubitril/valsartan, known as an 
+      angiotensin receptor blocker-neprilysin inhibitor (ARNI), to improve heart 
+      failure (HF) management, may benefit morbidity, mortality, and readmission rates 
+      in patients with HF. The PARADIGM-HF trial demonstrated that the ARNI can reduce 
+      morbidity and mortality in patients with heart failure with reduced ejection 
+      fraction (HFrEF), while ongoing PARAMOUNT and PARAGON-HF trials determined 
+      whether the ARNI has morbidity and mortality benefits in patients with heart 
+      failure with preserved ejection fraction (HFpEF). However, the risk of long-term 
+      side effects of the ARNI such as cognitive dysfunction or Alzheimer's disease 
+      (AD) remains unknown. In fact, neprilysin (NEP), encoded by NEP or MME gene, is a 
+      principal peptidase involved in the degradation of β-amyloid (Aβ) protein. 
+      Several studies have demonstrated that polymorphisms of the NEP gene may be 
+      associated with AD and cerebral amyloid angiopathy (CAA). Pharmacogenomics, the 
+      study of variability in drug response due to genetic polymorphisms, can 
+      potentially explain the variability in the effect of the ARNI and their side 
+      effects. Therefore, we have attempted to highlight pharmacogenomic factors and 
+      potential long-term side effects of the ARNI. Physicians should carefully monitor 
+      elderly patients with genetic risk factors for AD and CAA. In the future, genetic 
+      testing and genomic testing for NEP polymorphisms may play an important role in 
+      monitoring long-term side effects in ARNI-treated HF patients.
+CI  - © 2017 John Wiley & Sons Ltd.
+FAU - Krittanawong, Chayakrit
+AU  - Krittanawong C
+AUID- ORCID: 0000-0001-7953-335X
+AD  - Department of Internal Medicine, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+AD  - Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic, Cleveland, OH, USA.
+FAU - Kitai, Takeshi
+AU  - Kitai T
+AD  - Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic, Cleveland, OH, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Cardiovasc Ther
+JT  - Cardiovascular therapeutics
+JID - 101319630
+RN  - 0 (Aminobutyrates)
+RN  - 0 (Angiotensin II Type 1 Receptor Blockers)
+RN  - 0 (Biphenyl Compounds)
+RN  - 0 (Drug Combinations)
+RN  - 0 (Tetrazoles)
+RN  - 80M03YXJ7I (Valsartan)
+RN  - EC 3.4.24.11 (Neprilysin)
+RN  - WB8FT61183 (sacubitril and valsartan sodium hydrate drug combination)
+SB  - IM
+MH  - Alzheimer Disease/chemically induced/epidemiology
+MH  - Aminobutyrates/*adverse effects/*therapeutic use
+MH  - Angiotensin II Type 1 Receptor Blockers/*adverse effects/*therapeutic use
+MH  - Biphenyl Compounds
+MH  - Drug Combinations
+MH  - Heart Failure/*drug therapy/*genetics
+MH  - Humans
+MH  - Neprilysin/*antagonists & inhibitors/*genetics
+MH  - Pharmacogenetics
+MH  - Randomized Controlled Trials as Topic
+MH  - Tetrazoles/*adverse effects/*therapeutic use
+MH  - Valsartan/*adverse effects/*therapeutic use
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - Angiotensin receptor-neprilysin inhibitor
+OT  - Heart failure
+OT  - Heart failure with preserved ejection fraction
+OT  - Heart failure with reduced ejection fraction
+OT  - Omapatrilat
+EDAT- 2017/05/11 06:00
+MHDA- 2018/05/05 06:00
+CRDT- 2017/05/11 06:00
+PHST- 2017/01/02 00:00 [received]
+PHST- 2017/05/01 00:00 [revised]
+PHST- 2017/05/02 00:00 [accepted]
+PHST- 2017/05/11 06:00 [pubmed]
+PHST- 2018/05/05 06:00 [medline]
+PHST- 2017/05/11 06:00 [entrez]
+AID - 10.1111/1755-5922.12272 [doi]
+PST - ppublish
+SO  - Cardiovasc Ther. 2017 Aug;35(4). doi: 10.1111/1755-5922.12272.
+
+PMID- 35685188
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220613
+LR  - 20221207
+IS  - 1752-8976 (Electronic)
+IS  - 1470-3203 (Print)
+IS  - 1470-3203 (Linking)
+VI  - 2022
+DP  - 2022
+TI  - The Race for ACE: Targeting Angiotensin-Converting Enzymes (ACE) in SARS-CoV-2 
+      Infection.
+PG  - 2549063
+LID - 10.1155/2022/2549063 [doi]
+LID - 2549063
+AB  - The SARS-CoV-2 virus is spreading around the world, and its clinical 
+      manifestation COVID-19 is challenging medical, economic, and social systems. With 
+      more and more scientific and social media reports on the COVID-19 pandemic 
+      appearing, differences in geographical presentations and clinical management 
+      occur. Since ACE2 (angiotensin-converting enzyme 2) is the gatekeeper receptor 
+      for the SARS-CoV-2 virus in the upper bronchial system, we here focus on the 
+      central role of the renin-angiotensin aldosterone system (RAAS) in the SARS-CoV-2 
+      virus infection, the role of pharmacological RAAS inhibitors, and specific 
+      genetic aspects, i.e., single nucleotide polymorphisms (SNP) for the clinical 
+      outcome of COVID-19. We aimed to bring together clinical, epidemiological, 
+      molecular, and pathophysiological and pharmacological data/observations on 
+      cardiovascular aspects in the actual SARS-CoV-2 virus pandemic. In detail, we 
+      will report controversies about the Yin-Yan between ACE2 and ACE1 and potential 
+      implications for the treatment of hypertension, coronary artery disease, and 
+      heart failure. Here, we summarize the encouraging and dynamic global effort of 
+      multiple biomedical disciplines resulted in astonishing fight against COVID-19 
+      targeting the renin-angiotensin-aldosterone system, yet the race for ACE just 
+      begun.
+CI  - Copyright © 2022 Elisabeth Schieffer and Bernhard Schieffer.
+FAU - Schieffer, Elisabeth
+AU  - Schieffer E
+AD  - Department of Cardiology, Angiology and Critical Care Medicine, Philipps 
+      University, Marburg, Germany.
+FAU - Schieffer, Bernhard
+AU  - Schieffer B
+AUID- ORCID: 0000-0001-6677-7486
+AD  - Department of Cardiology, Angiology and Critical Care Medicine, Philipps 
+      University, Marburg, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220527
+PL  - England
+TA  - J Renin Angiotensin Aldosterone Syst
+JT  - Journal of the renin-angiotensin-aldosterone system : JRAAS
+JID - 100971636
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Angiotensins)
+RN  - EC 3.4.15.1 (Peptidyl-Dipeptidase A)
+RN  - EC 3.4.17.23 (Angiotensin-Converting Enzyme 2)
+SB  - IM
+MH  - *Angiotensin-Converting Enzyme 2/antagonists & inhibitors
+MH  - *Angiotensin-Converting Enzyme Inhibitors/pharmacology
+MH  - Angiotensins
+MH  - Humans
+MH  - Pandemics
+MH  - Peptidyl-Dipeptidase A
+MH  - SARS-CoV-2
+MH  - *COVID-19 Drug Treatment
+PMC - PMC9166989
+COIS- The authors declare that they have no conflicts of interest.
+EDAT- 2022/06/11 06:00
+MHDA- 2022/06/14 06:00
+PMCR- 2022/05/27
+CRDT- 2022/06/10 02:26
+PHST- 2021/12/26 00:00 [received]
+PHST- 2022/03/07 00:00 [revised]
+PHST- 2022/04/22 00:00 [accepted]
+PHST- 2022/06/10 02:26 [entrez]
+PHST- 2022/06/11 06:00 [pubmed]
+PHST- 2022/06/14 06:00 [medline]
+PHST- 2022/05/27 00:00 [pmc-release]
+AID - 10.1155/2022/2549063 [doi]
+PST - epublish
+SO  - J Renin Angiotensin Aldosterone Syst. 2022 May 27;2022:2549063. doi: 
+      10.1155/2022/2549063. eCollection 2022.
+
+PMID- 28087255
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170407
+LR  - 20170407
+IS  - 1879-0712 (Electronic)
+IS  - 0014-2999 (Linking)
+VI  - 797
+DP  - 2017 Feb 15
+TI  - Unknown face of known drugs - what else can we expect from angiotensin converting 
+      enzyme inhibitors?
+PG  - 9-19
+LID - S0014-2999(16)30811-1 [pii]
+LID - 10.1016/j.ejphar.2016.12.031 [doi]
+AB  - The renin-angiotensin system (RAS) is one of important systems among homeostatic 
+      mechanisms that control the function of cardiovascular, renal and adrenal 
+      systems. As RAS has a very complex nature, it has been also found as related to 
+      the control of cell migration and apoptosis. Angiotensin-converting enzyme 
+      inhibitors (ACEI) are drugs most commonly used in the modulation of RAS activity. 
+      ACEI have been extensively described as effective in the treatment of 
+      hypertension among adults, but also as drugs delaying progression in diabetic 
+      nephropathy and reducing mortality in left ventricular dysfunction and congestive 
+      heart failure. What is less obvious, ACEI are also widely used in pediatric 
+      nephrology and cardiology. Moreover, there are more and more reports showing 
+      evidence that ACEI can be beneficial in the treatment of many other diseases and 
+      the pleiotropic activity of ACEI is mainly based on their antioxidant properties. 
+      In this paper we focus on the less obvious possibilities of the clinical use of 
+      ACEI in neurological or oncological patients, discuss the role of ACE gene 
+      polymorphism and show the perspectives of potentially new applications of ACEI in 
+      contemporary pharmacotherapy.
+CI  - Copyright © 2017 Elsevier B.V. All rights reserved.
+FAU - Wzgarda, Anna
+AU  - Wzgarda A
+AD  - Chair and Department of Pharmaceutical Chemistry, Poznan University of Medical 
+      Sciences, ul. Grunwaldzka 6, 60-780 Poznan, Poland. Electronic address: 
+      annawzgarda@ump.edu.pl.
+FAU - Kleszcz, Robert
+AU  - Kleszcz R
+AD  - Department of Pharmaceutical Biochemistry, Poznan University of Medical Sciences, 
+      ul. Swiecickiego 4, 60-781 Poznan, Poland.
+FAU - Prokop, Monika
+AU  - Prokop M
+AD  - Department of Endocrinology and Diabetology, Children's Memorial Health 
+      Institute, al. Dzieci Polskich 20, 04-730 Warsaw, Poland.
+FAU - Regulska, Katarzyna
+AU  - Regulska K
+AD  - Greater Poland Oncology Center, ul. Garbary 15, 61-866 Poznan, Poland.
+FAU - Regulski, Milosz
+AU  - Regulski M
+AD  - Chair and Department of Toxicology, Poznan University of Medical Sciences, ul. 
+      Dojazd 30, 60-631 Poznan, Poland.
+FAU - Paluszczak, Jaroslaw
+AU  - Paluszczak J
+AD  - Department of Pharmaceutical Biochemistry, Poznan University of Medical Sciences, 
+      ul. Swiecickiego 4, 60-781 Poznan, Poland.
+FAU - Stanisz, Beata J
+AU  - Stanisz BJ
+AD  - Chair and Department of Pharmaceutical Chemistry, Poznan University of Medical 
+      Sciences, ul. Grunwaldzka 6, 60-780 Poznan, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20170110
+PL  - Netherlands
+TA  - Eur J Pharmacol
+JT  - European journal of pharmacology
+JID - 1254354
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+SB  - IM
+MH  - Adipose Tissue/drug effects
+MH  - Angiotensin-Converting Enzyme Inhibitors/*pharmacology/therapeutic use
+MH  - Animals
+MH  - Arteriosclerosis/drug therapy
+MH  - Humans
+MH  - Neoplasms/drug therapy
+MH  - Neurology
+MH  - Pediatrics
+OTO - NOTNLM
+OT  - Angiotensin-converting enzyme inhibitors
+OT  - Pleiotropic activity
+OT  - RAS
+EDAT- 2017/01/15 06:00
+MHDA- 2017/04/08 06:00
+CRDT- 2017/01/15 06:00
+PHST- 2016/10/30 00:00 [received]
+PHST- 2016/12/14 00:00 [revised]
+PHST- 2016/12/20 00:00 [accepted]
+PHST- 2017/01/15 06:00 [pubmed]
+PHST- 2017/04/08 06:00 [medline]
+PHST- 2017/01/15 06:00 [entrez]
+AID - S0014-2999(16)30811-1 [pii]
+AID - 10.1016/j.ejphar.2016.12.031 [doi]
+PST - ppublish
+SO  - Eur J Pharmacol. 2017 Feb 15;797:9-19. doi: 10.1016/j.ejphar.2016.12.031. Epub 
+      2017 Jan 10.
+
+PMID- 35352885
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220331
+LR  - 20221207
+IS  - 1976-2437 (Electronic)
+IS  - 0513-5796 (Print)
+IS  - 0513-5796 (Linking)
+VI  - 63
+IP  - 4
+DP  - 2022 Apr
+TI  - Genetic Variants Associated with Adverse Events after Angiotensin-Converting 
+      Enzyme Inhibitor Use: Replication after GWAS-Based Discovery.
+PG  - 342-348
+LID - 10.3349/ymj.2022.63.4.342 [doi]
+AB  - PURPOSE: Angiotensin-converting enzyme inhibitors (ACEIs) are medications 
+      generally prescribed for patients with high cardiovascular risk; however, they 
+      are suboptimally used due to frequent adverse events (AEs). The present study 
+      aimed to identify and replicate the genetic variants associated with ACEI-related 
+      AEs in the Korean population. MATERIALS AND METHODS: A two-stage approach 
+      employing genome-wide association study (GWAS)-based discovery and replication 
+      through target sequencing was used. In total, 1300 individuals received ACEIs 
+      from 2001 to 2007; among these, 228 were selected for GWAS. An additional 336 
+      patients were selected for replication after screening 1186 subjects treated from 
+      2008 to 2018. Candidate genes for target sequencing were selected based on the 
+      present GWAS, previous GWASs, and data from the PharmGKB database. Furthermore, 
+      association analyses were performed between no AE and AE or cough groups after 
+      target sequencing. RESULTS: Five genes, namely CRIM1, NELL1, CACNA1D, VOPP1, and 
+      MYBPC1, were identified near variants associated with ACEI-related AEs. During 
+      target sequencing of 34 candidate genes, six single-nucleotide polymorphisms 
+      (SNPs; rs5224, rs8176786, rs10766756, rs561868018, rs4974539, and rs10946364) 
+      were replicated for association with all ACEI-related AEs. Four of these SNPs and 
+      rs147912715 exhibited associations with ACEI-related cough, whereas four SNPs 
+      (rs5224, rs81767786, rs10766756, and rs4974539 near BDKRB2, NELL1, NELL1 intron, 
+      and CPN2, respectively) were significantly associated with both categories of 
+      AEs. CONCLUSION: Several variants, including novel and known variants, were 
+      successfully replicated and found to have associations with ACEI-related AEs. 
+      These results provide rare and clinically relevant information for safer use of 
+      ACEIs.
+CI  - © Copyright: Yonsei University College of Medicine 2022.
+FAU - Lee, Chan Joo
+AU  - Lee CJ
+AUID- ORCID: 0000-0002-8756-409X
+AD  - Division of Cardiology, Department of Internal Medicine, Severance Hospital, 
+      Yonsei University College of Medicine, Seoul, Korea.
+FAU - Choi, Bogeum
+AU  - Choi B
+AUID- ORCID: 0000-0002-7256-6922
+AD  - Kyung Hee University College of Medicine, Seoul, Korea.
+FAU - Pak, Hayeon
+AU  - Pak H
+AUID- ORCID: 0000-0001-8110-2225
+AD  - Department of Life and Nanopharmaceutical Sciences, Graduate School, Kyung Hee 
+      University, Seoul, Korea.
+FAU - Park, Jung Mi
+AU  - Park JM
+AUID- ORCID: 0000-0003-1572-5832
+AD  - Department of Biostatistics and Computing, Graduate School, Yonsei University, 
+      Seoul, Korea.
+FAU - Lee, Ji Hyun
+AU  - Lee JH
+AUID- ORCID: 0000-0003-3640-2928
+AD  - Department of Clinical Pharmacology and Therapeutics, Kyung Hee University 
+      College of Medicine, Seoul, Korea.
+AD  - Department of Biomedical Science and Technology, Kyung Hee University, Seoul, 
+      Korea. hyunihyuni@khu.ac.kr.
+FAU - Lee, Sang-Hak
+AU  - Lee SH
+AUID- ORCID: 0000-0002-4535-3745
+AD  - Division of Cardiology, Department of Internal Medicine, Severance Hospital, 
+      Yonsei University College of Medicine, Seoul, Korea. shl1106@yuhs.ac.
+LA  - eng
+GR  - 18182MFDS410/Ministry of Food and Drug Safety/Korea
+PT  - Journal Article
+PL  - Korea (South)
+TA  - Yonsei Med J
+JT  - Yonsei medical journal
+JID - 0414003
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Transcription Factors)
+RN  - 0 (VOPP1 protein, human)
+SB  - IM
+MH  - *Angiotensin-Converting Enzyme Inhibitors/adverse effects
+MH  - Asian People/genetics
+MH  - Cough/chemically induced/drug therapy/genetics
+MH  - *Genome-Wide Association Study
+MH  - Humans
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Transcription Factors/genetics
+PMC - PMC8965428
+OTO - NOTNLM
+OT  - Pharmacogenomics
+OT  - antihypertensive agents
+OT  - drug therapy
+OT  - heart failure
+OT  - safety
+COIS- The authors have no potential conflicts of interest to disclose.
+EDAT- 2022/03/31 06:00
+MHDA- 2022/04/01 06:00
+PMCR- 2022/04/01
+CRDT- 2022/03/30 08:42
+PHST- 2021/10/15 00:00 [received]
+PHST- 2021/12/13 00:00 [revised]
+PHST- 2022/01/11 00:00 [accepted]
+PHST- 2022/03/30 08:42 [entrez]
+PHST- 2022/03/31 06:00 [pubmed]
+PHST- 2022/04/01 06:00 [medline]
+PHST- 2022/04/01 00:00 [pmc-release]
+AID - 63.342 [pii]
+AID - 10.3349/ymj.2022.63.4.342 [doi]
+PST - ppublish
+SO  - Yonsei Med J. 2022 Apr;63(4):342-348. doi: 10.3349/ymj.2022.63.4.342.
+
+PMID- 34397336
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210818
+LR  - 20210818
+IS  - 0022-9040 (Print)
+IS  - 0022-9040 (Linking)
+VI  - 61
+IP  - 7
+DP  - 2021 Jul 31
+TI  - Effect of 24-hour blood pressure and heart rate on the prognosis of patients with 
+      reduced and midrange LVEF.
+PG  - 4-13
+LID - 10.18087/cardio.2021.7.n1684 [doi]
+AB  - Aim    Optimal combination therapy for chronic heart failure (CHF) currently 
+      implies the mandatory use of at least four classes of drugs: 
+      renin-angiotensin-aldosterone (RAAS) system inhibitors or angiotensin receptor 
+      blocker neprilysin inhibitors (ARNI); beta-adrenoblockers (BAB); 
+      mineralocorticoid receptor antagonists; and sodium-glucose cotransporter 2 
+      inhibitors. Furthermore, many of these drugs are able to decrease blood pressure 
+      even to hypotension and alleviate tachycardia. This study focused on the 
+      relationship of 24-h blood pressure (BP) and heart rate (HR) with the prognosis 
+      for CHF patients with sinus rhythm and left ventricular ejection fraction (LV EF) 
+      &lt;50 % as well as on suggesting possible variants of safe therapy for CHF 
+      depending on the combination of studied factors.Material and methods    Effects 
+      of clinical data, echocardiographic parameters, 24-h BP, and heart rhythm (data 
+      from 24-h BP and ECG monitors) on the prognosis of 155 patients with clinically 
+      pronounced CHF, LV EF &lt;50 %, and sinus rhythm who were followed up for 5 years 
+      after discharge from the hospital.Results    The one-factor analysis showed that 
+      the prognosis of CHF patients was statistically significantly influenced by the 
+      more severe functional class (FC) III CHF compared to FC II, reduced LV EF 
+      (&lt;35 %), a lower 24-h systolic BP (SBP) (&lt;103 mm Hg), the absence of 
+      hypotensive episodes in daytime, a low variability of nighttime BP (&lt;7.5 mm 
+      Hg), a higher 24-h HR (&gt;71 bpm vs. &lt;60 bpm), the absence of therapy with 
+      RAAS inhibitors + BAB, and a lower body weight index. The multi-factor analysis 
+      showed that more severe CHF FC, lower LV EF, and the absence of RAAS inhibitors + 
+      BAB therapy retained the influence on the prognosis. After eliminating the 
+      influencing factor of drug therapy, also a low SBP variability significantly 
+      influenced the prognosis. An additional analysis determined the following four 
+      groups of CHF patients with reduced heart systolic function according to mean 
+      24-h HR and SBP: the largest group (38.1 % of all patients) with controlled HR 
+      (≤69 bpm), preserved SBP (&gt;103 mm Hg), and the lowest death rate of 15.3 %; 
+      the group with increased HR (&gt;69 bpm) but preserved SBP (30.3 % of all 
+      patients) where the death rate was 44.7 %, which was significantly higher than in 
+      the first group; the group with normal HR (≤69 bpm) but reduced SBP (≤103 mm Hg) 
+      (16.1 % of patients) where the death rate was 40 %, which was comparable with the 
+      second group and significantly worse than in the first group; and the group with 
+      both increased HR (&gt;69 bpm) and reduced SBP (≤103 mm Hg) (15.5 % of patients), 
+      which resulted in the maximal risk of death (70.8 % of patients with CHF and LV 
+      EF &lt;50 %), which was significantly higher than in the three other 
+      groups.Conclusion    Low SBP (including 24-h SBP with reduced variability in day- 
+      and nighttime) in combination with high HR (including by data of Holter 
+      monitoring), low LV EF, more severe clinical course of CHF, and the absence of an 
+      adequate treatment with neurohormonal modulators (RAAS inhibitors and BAB) 
+      significantly increased the risk of death. Isolating four types of FC II-III CHF 
+      with sinus rhythm and EF &lt;50% based on the combination of HR and BP identifies 
+      patients with an unfavorable prognosis, which will help developing differentiated 
+      therapeutic approaches taking into account clinical features.
+FAU - Mareev, V Yu
+AU  - Mareev VY
+AD  - Medical Research and Educational Center of the M. V. Lomonosov Moscow State 
+      University, Moscow, Russia Faculty of Fundamental Medicine, Lomonosov Moscow 
+      State University, Russia.
+FAU - Kapanadze, L G
+AU  - Kapanadze LG
+AD  - Academician Chapidze Center for Emergency Cardiology, Tbilisi, Georgia.
+FAU - Kheimets, G I
+AU  - Kheimets GI
+AD  - Scientific Medical Research Center of Cardiology, Moscow, Russia.
+FAU - Mareev, Yu V
+AU  - Mareev YV
+AD  - National Medical Research Centre for Therapy and Preventive Medicine, Moscow, 
+      Russia Robertson Centre for Biostatistics, Glasgow, Great Britain.
+LA  - rus
+LA  - eng
+PT  - Journal Article
+DEP - 20210731
+PL  - Russia (Federation)
+TA  - Kardiologiia
+JT  - Kardiologiia
+JID - 0376351
+SB  - IM
+MH  - Blood Pressure
+MH  - *Heart Failure/drug therapy
+MH  - Heart Rate
+MH  - Humans
+MH  - Prognosis
+MH  - Stroke Volume
+MH  - *Ventricular Function, Left
+EDAT- 2021/08/17 06:00
+MHDA- 2021/08/19 06:00
+CRDT- 2021/08/16 12:20
+PHST- 2021/05/16 00:00 [received]
+PHST- 2021/07/13 00:00 [accepted]
+PHST- 2021/08/16 12:20 [entrez]
+PHST- 2021/08/17 06:00 [pubmed]
+PHST- 2021/08/19 06:00 [medline]
+AID - 10.18087/cardio.2021.7.n1684 [doi]
+PST - epublish
+SO  - Kardiologiia. 2021 Jul 31;61(7):4-13. doi: 10.18087/cardio.2021.7.n1684.
+
+PMID- 32080354
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210902
+LR  - 20210902
+IS  - 1473-1150 (Electronic)
+IS  - 1470-269X (Print)
+IS  - 1470-269X (Linking)
+VI  - 20
+IP  - 6
+DP  - 2020 Dec
+TI  - Genome-wide association study of angioedema induced by angiotensin-converting 
+      enzyme inhibitor and angiotensin receptor blocker treatment.
+PG  - 770-783
+LID - 10.1038/s41397-020-0165-2 [doi]
+AB  - Angioedema in the mouth or upper airways is a feared adverse reaction to 
+      angiotensin-converting enzyme inhibitor (ACEi) and angiotensin receptor blocker 
+      (ARB) treatment, which is used for hypertension, heart failure and diabetes 
+      complications. This candidate gene and genome-wide association study aimed to 
+      identify genetic variants predisposing to angioedema induced by these drugs. The 
+      discovery cohort consisted of 173 cases and 4890 controls recruited in Sweden. In 
+      the candidate gene analysis, ETV6, BDKRB2, MME, and PRKCQ were nominally 
+      associated with angioedema (p < 0.05), but did not pass Bonferroni correction for 
+      multiple testing (p < 2.89 × 10(-5)). In the genome-wide analysis, intronic 
+      variants in the calcium-activated potassium channel subunit alpha-1 (KCNMA1) gene 
+      on chromosome 10 were significantly associated with angioedema (p < 5 × 10(-8)). 
+      Whilst the top KCNMA1 hit was not significant in the replication cohort (413 
+      cases and 599 ACEi-exposed controls from the US and Northern Europe), a 
+      meta-analysis of the replication and discovery cohorts (in total 586 cases and 
+      1944 ACEi-exposed controls) revealed that each variant allele increased the odds 
+      of experiencing angioedema 1.62 times (95% confidence interval 1.05-2.50, 
+      p = 0.030). Associated KCNMA1 variants are not known to be functional, but are in 
+      linkage disequilibrium with variants in transcription factor binding sites active 
+      in relevant tissues. In summary, our data suggest that common variation in KCNMA1 
+      is associated with risk of angioedema induced by ACEi or ARB treatment. Future 
+      whole exome or genome sequencing studies will show whether rare variants in 
+      KCNMA1 or other genes contribute to the risk of ACEi- and ARB-induced angioedema.
+FAU - Rasmussen, Eva Rye
+AU  - Rasmussen ER
+AD  - Department of Otorhinolaryngology, Head & Neck Surgery and Audiology, 
+      Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+AD  - OPEN Patient data Explorative Network, Odense University Hospital, Odense, 
+      Denmark.
+FAU - Hallberg, Pär
+AU  - Hallberg P
+AD  - Department of Medical Sciences, Clinical Pharmacology and Science for Life 
+      Laboratory, Uppsala University, Uppsala, Sweden.
+FAU - Baranova, Ekaterina V
+AU  - Baranova EV
+AD  - Department of Pharmaceutical Sciences, Division of Pharmacoepidemiology and 
+      Clinical Pharmacology, Utrecht University, Utrecht, The Netherlands.
+FAU - Eriksson, Niclas
+AU  - Eriksson N
+AD  - Department of Medical Sciences, Clinical Pharmacology and Science for Life 
+      Laboratory, Uppsala University, Uppsala, Sweden.
+AD  - Uppsala Clinical Research Center, Uppsala, Sweden.
+FAU - Karawajczyk, Malgorzata
+AU  - Karawajczyk M
+AD  - Department of Medical Sciences, Clinical Chemistry, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Johansson, Caroline
+AU  - Johansson C
+AD  - Department of Medical Sciences, Clinical Pharmacology and Science for Life 
+      Laboratory, Uppsala University, Uppsala, Sweden.
+AD  - Q-Linea AB, Uppsala, Sweden.
+FAU - Cavalli, Marco
+AU  - Cavalli M
+AD  - Department of Immunology, Genetics and Pathology, Medical Genetics and Genomics 
+      and Science for Life Laboratory, Uppsala University, Uppsala, Sweden.
+FAU - Maroteau, Cyrielle
+AU  - Maroteau C
+AD  - Division of Population Health and Genomics, University of Dundee, Ninewells 
+      Hospital and Medical school, Dundee, UK.
+FAU - Veluchamy, Abirami
+AU  - Veluchamy A
+AD  - Division of Population Health and Genomics, University of Dundee, Ninewells 
+      Hospital and Medical school, Dundee, UK.
+FAU - Islander, Gunilla
+AU  - Islander G
+AD  - Department of Intensive and Perioperative Care, Skåne University Hospital, Lund, 
+      Sweden.
+FAU - Hugosson, Svante
+AU  - Hugosson S
+AD  - Department of Otorhinolaryngology, Örebro University Hospital and Örebro 
+      University, Örebro, Sweden.
+FAU - Terreehorst, Ingrid
+AU  - Terreehorst I
+AD  - Department of Ear, Nose and Throat diseases, Amsterdam University Medical Center, 
+      Amsterdam, The Netherlands.
+FAU - Asselbergs, Folkert W
+AU  - Asselbergs FW
+AUID- ORCID: 0000-0002-1692-8669
+AD  - Department of Cardiology, Division Heart and Lungs, University Medical Center 
+      Utrecht, Utrecht, The Netherlands.
+AD  - Institute of Cardiovascular Science, Faculty of Population Health Sciences, 
+      University College London, London, UK.
+AD  - Health Data Research UK and Institute of Health Informatics, University College 
+      London, London, UK.
+FAU - Norling, Pia
+AU  - Norling P
+AD  - Sickla Health Centre, Nacka, Sweden.
+FAU - Johansson, Hans-Erik
+AU  - Johansson HE
+AD  - Department of Public Health and Caring Sciences, Clinical Nutrition and 
+      Metabolism, Uppsala University, Uppsala, Sweden.
+FAU - Kohnke, Hugo
+AU  - Kohnke H
+AD  - Department of Medical Sciences, Clinical Pharmacology and Science for Life 
+      Laboratory, Uppsala University, Uppsala, Sweden.
+FAU - Syvänen, Ann-Christine
+AU  - Syvänen AC
+AD  - Department of Medical Sciences, Molecular Medicine and Science for Life 
+      Laboratory, Uppsala University, Uppsala, Sweden.
+FAU - Siddiqui, Moneeza K
+AU  - Siddiqui MK
+AD  - Division of Population Health and Genomics, University of Dundee, Ninewells 
+      Hospital and Medical school, Dundee, UK.
+FAU - Lang, Chim C
+AU  - Lang CC
+AD  - Division of Molecular & Clinical Medicine, Ninewells Hospital and Medical School, 
+      University of Dundee, Dundee, UK.
+FAU - Magnusson, Patrik K E
+AU  - Magnusson PKE
+AUID- ORCID: 0000-0002-7315-7899
+AD  - Swedish Twin Registry, Department of Medical Epidemiology and Biostatistics, 
+      Karolinska Institutet, Stockholm, Sweden.
+FAU - Yue, Qun-Ying
+AU  - Yue QY
+AD  - Uppsala Monitoring Centre, WHO Collaborating Centre, Uppsala, Sweden.
+FAU - Wadelius, Claes
+AU  - Wadelius C
+AD  - Department of Immunology, Genetics and Pathology, Medical Genetics and Genomics 
+      and Science for Life Laboratory, Uppsala University, Uppsala, Sweden.
+FAU - von Buchwald, Christian
+AU  - von Buchwald C
+AD  - Department of Otorhinolaryngology, Head & Neck Surgery and Audiology, 
+      Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+FAU - Bygum, Anette
+AU  - Bygum A
+AD  - Department of Dermatology and Allergy Centre, Odense University Hospital, Odense, 
+      Denmark.
+AD  - Clinical Institute, University of Southern Denmark, Odense, Denmark.
+FAU - Alfirevic, Ana
+AU  - Alfirevic A
+AD  - Department of Molecular & Clinical Pharmacology, University of Liverpool, 
+      Liverpool, UK.
+FAU - Maitland-van der Zee, Anke H
+AU  - Maitland-van der Zee AH
+AD  - Department of Pharmaceutical Sciences, Division of Pharmacoepidemiology and 
+      Clinical Pharmacology, Utrecht University, Utrecht, The Netherlands.
+AD  - Department of Respiratory Diseases, Amsterdam University Medical Center, 
+      University of Amsterdam, Amsterdam, The Netherlands.
+FAU - Palmer, Colin N A
+AU  - Palmer CNA
+AUID- ORCID: 0000-0002-6415-6560
+AD  - Division of Population Health and Genomics, University of Dundee, Ninewells 
+      Hospital and Medical school, Dundee, UK.
+FAU - Wadelius, Mia
+AU  - Wadelius M
+AUID- ORCID: 0000-0002-6368-2622
+AD  - Department of Medical Sciences, Clinical Pharmacology and Science for Life 
+      Laboratory, Uppsala University, Uppsala, Sweden. mia.wadelius@medsci.uu.se.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200221
+PL  - United States
+TA  - Pharmacogenomics J
+JT  - The pharmacogenomics journal
+JID - 101083949
+RN  - 0 (Angiotensin Receptor Antagonists)
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Angioedema/*chemically induced/epidemiology/*genetics
+MH  - Angiotensin Receptor Antagonists/administration & dosage/*adverse effects
+MH  - Angiotensin-Converting Enzyme Inhibitors/administration & dosage/*adverse effects
+MH  - Cohort Studies
+MH  - Female
+MH  - Genome-Wide Association Study/*methods
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Registries
+MH  - Sweden/epidemiology
+MH  - Treatment Outcome
+PMC - PMC7674154
+COIS- No funder took part in the study design, recruitment, analysis, interpretation of 
+      data, writing of the report or in the decision to submit the paper for 
+      publication.The study was part of Dr Eva Rye Rasmussen’s PhD thesis, which was 
+      financially supported by CSL Behring and by Shire with an investigator initiated 
+      research grant (grant no. IIR-DNK-001219). No other conflicts of interest exist.
+EDAT- 2020/02/23 06:00
+MHDA- 2021/09/03 06:00
+PMCR- 2020/02/21
+CRDT- 2020/02/22 06:00
+PHST- 2019/11/08 00:00 [received]
+PHST- 2020/02/07 00:00 [accepted]
+PHST- 2020/01/26 00:00 [revised]
+PHST- 2020/02/23 06:00 [pubmed]
+PHST- 2021/09/03 06:00 [medline]
+PHST- 2020/02/22 06:00 [entrez]
+PHST- 2020/02/21 00:00 [pmc-release]
+AID - 10.1038/s41397-020-0165-2 [pii]
+AID - 165 [pii]
+AID - 10.1038/s41397-020-0165-2 [doi]
+PST - ppublish
+SO  - Pharmacogenomics J. 2020 Dec;20(6):770-783. doi: 10.1038/s41397-020-0165-2. Epub 
+      2020 Feb 21.
+
+PMID- 26633885
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160627
+LR  - 20181113
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 10
+IP  - 12
+DP  - 2015
+TI  - Pharmacogenetic Risk Stratification in Angiotensin-Converting Enzyme 
+      Inhibitor-Treated Patients with Congestive Heart Failure: A Retrospective Cohort 
+      Study.
+PG  - e0144195
+LID - 10.1371/journal.pone.0144195 [doi]
+LID - e0144195
+AB  - BACKGROUND: Evidence for pharmacogenetic risk stratification of 
+      angiotensin-converting enzyme inhibitor (ACEI) treatment is limited. Therefore, 
+      in a cohort of ACEI-treated patients with congestive heart failure (CHF), we 
+      investigated the predictive value of two pharmacogenetic scores that previously 
+      were found to predict ACEI efficacy in patients with ischemic heart disease and 
+      hypertension, respectively. Score A combined single nucleotide polymorphisms 
+      (SNPs) of the angiotensin II receptor type 1 gene (rs275651 and rs5182) and the 
+      bradykinin receptor B1 gene (rs12050217). Score B combined SNPs of the 
+      angiotensin-converting enzyme gene (rs4343) and ABO blood group genes (rs495828 
+      and rs8176746). METHODS: Danish patients with CHF enrolled in the previously 
+      reported Echocardiography and Heart Outcome Study were included. Subjects were 
+      genotyped and categorized according to pharmacogenetic scores A and B of ≤1, 2 
+      and ≥3 each, and followed for up to 10 years. Difference in cumulative incidences 
+      of cardiovascular death and all-cause death were assessed by the cumulative 
+      incidence estimator. Survival was modeled by Cox proportional hazard analyses. 
+      RESULTS: We included 667 patients, of whom 80% were treated with ACEIs. 
+      Differences in cumulative incidences of cardiovascular death (P = 0.346 and P = 
+      0.486) and all-cause death (P = 0.515 and P = 0.486) were not significant for 
+      score A and B, respectively. There was no difference in risk of cardiovascular 
+      death or all-cause death between subjects with score A ≤1 vs. 2 (HR 1.03 [95% CI 
+      0.79-1.34] and HR 1.11 [95% CI 0.88-1.42]), score A ≤1 vs. ≥3 (HR 0.80 [95% CI 
+      0.59-1.08] and HR 0.91 [95% CI 0.70-1.20]), score B ≤1 vs. 2 (HR 1.02 [95% CI 
+      0.78-1.32] and HR 0.98 [95% CI 0.77-1.24]), and score B ≤1 vs. ≥3 (HR 1.03 [95% 
+      CI 0.75-1.41] and HR 1.05 [95% CI 0.79-1.40]), respectively. CONCLUSIONS: We 
+      found no association between either of the analyzed pharmacogenetic scores and 
+      fatal outcomes in ACEI-treated patients with CHF.
+FAU - Nelveg-Kristensen, Karl Emil
+AU  - Nelveg-Kristensen KE
+AD  - Department of Cardiology, Gentofte University Hospital, Hellerup, Denmark.
+FAU - Busk Madsen, Majbritt
+AU  - Busk Madsen M
+AD  - Institute of Biological Psychiatry, Mental Health Centre Sct. Hans, Copenhagen 
+      University Hospital, Roskilde, Denmark.
+FAU - Torp-Pedersen, Christian
+AU  - Torp-Pedersen C
+AD  - Institute of Health, Science and Technology, Aalborg University, Aalborg, 
+      Denmark.
+FAU - Køber, Lars
+AU  - Køber L
+AD  - The Heart Centre, Rigshospitalet, Copenhagen University Hospital, Copenhagen, 
+      Denmark.
+FAU - Egfjord, Martin
+AU  - Egfjord M
+AD  - Department of Nephrology, Rigshospitalet, Copenhagen University Hospital, 
+      Copenhagen, Denmark.
+FAU - Berg Rasmussen, Henrik
+AU  - Berg Rasmussen H
+AD  - Institute of Biological Psychiatry, Mental Health Centre Sct. Hans, Copenhagen 
+      University Hospital, Roskilde, Denmark.
+FAU - Riis Hansen, Peter
+AU  - Riis Hansen P
+AD  - Department of Cardiology, Gentofte University Hospital, Hellerup, Denmark.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20151203
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Receptor, Angiotensin, Type 1)
+RN  - 0 (Receptor, Bradykinin B1)
+SB  - IM
+MH  - Aged
+MH  - Alleles
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Female
+MH  - Gene Frequency
+MH  - Genotype
+MH  - Heart Failure/*drug therapy/genetics/mortality
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pharmacogenetics
+MH  - Polymorphism, Single Nucleotide
+MH  - Receptor, Angiotensin, Type 1/*genetics
+MH  - Receptor, Bradykinin B1/*genetics
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Survival Rate
+MH  - Treatment Outcome
+PMC - PMC4669156
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2015/12/04 06:00
+MHDA- 2016/06/28 06:00
+PMCR- 2015/12/03
+CRDT- 2015/12/04 06:00
+PHST- 2015/07/16 00:00 [received]
+PHST- 2015/11/13 00:00 [accepted]
+PHST- 2015/12/04 06:00 [entrez]
+PHST- 2015/12/04 06:00 [pubmed]
+PHST- 2016/06/28 06:00 [medline]
+PHST- 2015/12/03 00:00 [pmc-release]
+AID - PONE-D-15-30222 [pii]
+AID - 10.1371/journal.pone.0144195 [doi]
+PST - epublish
+SO  - PLoS One. 2015 Dec 3;10(12):e0144195. doi: 10.1371/journal.pone.0144195. 
+      eCollection 2015.
